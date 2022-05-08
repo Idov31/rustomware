@@ -1,0 +1,9 @@
+[package]
+name = "rustomware"
+version = "0.1.0"
+authors = ["Idov31 <github.com/idov31>"]
+edition = "2021"
+
+
+[dependencies]
+libaes = "0.6.2"

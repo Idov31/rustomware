@@ -1,0 +1,1 @@
+Your files are encrypted by Rustsomware.
