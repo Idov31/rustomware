@@ -4,4 +4,4 @@
 
 A simple ransomware written in Rust.
 
-Read more about it in the blog post - [Rust101 - Building a rustsomware](https://idov31.github.io/).
+Read more about it in the blog post - [Rust101 - Building a rustomware](https://idov31.github.io/).
